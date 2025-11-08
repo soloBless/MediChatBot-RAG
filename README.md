@@ -6,6 +6,9 @@ It combines **semantic search**, **vector embeddings**, and **conversational AI*
 
 ---
 
+![MediChatBot](https://github.com/user-attachments/assets/e34cb7cb-e884-4822-8f71-20c47f0b916a)
+
+
 ## 🌐 Overview
 This project demonstrates a **production-grade conversational healthcare assistant** using RAG architecture.  
 It automatically ingests documents from Google Drive, processes them with Cohere embeddings, stores them in a Supabase vector database, and responds to user queries via webhook connections using Google Gemini.
@@ -178,6 +181,7 @@ Google Gemini	      Enable PaLM API on GCP → get key
 - Supabase Docs
 - Cohere API Docs
 - Google Gemini API
+
 
 
 
